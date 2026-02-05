@@ -1,10 +1,3 @@
-# Beacon
-[![Flutter CI](https://github.com/CCExtractor/beacon/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/CCExtractor/beacon/actions/workflows/flutter-ci.yml)
-
-## Official Documentation
-https://ccextractor-beacon-docs.netlify.app/
-
-The source code of documentation can be found here: https://github.com/CCExtractor/Beacon-Documentation
 
 ## About the Project
 
@@ -96,16 +89,3 @@ beacon/
 
 <img src="screenshots/9.png" width="24%" /> <img src="screenshots/10.png" width="24%"/> 
 
-## Contributing
-
-Whether you have some feauture requests/ideas, code improvements, refactoring, performance improvements, help is always Welcome. The more is done, better it gets.
-
-If you found any bugs, consider opening an [issue](https://github.com/CCExtractor/beacon/issues/new).
-
-**To know the details about features implemented till Google Summer of Code'21 and future todo's please visit [this blog](https://blog.nishthab.tech/gsoc-2021-ccextractor-beacon)**
-
-## Community
-
-We would love to hear from you! You may join gsoc-beacon channel of CCExtractor community through slack:
-
-[![Slack](https://img.shields.io/badge/chat-on_slack-purple.svg?style=for-the-badge&logo=slack)](https://ccextractor.org/public/general/support/)
